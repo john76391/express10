@@ -1,6 +1,5 @@
 // import express from "express";
 // import { resolve } from "path";
-const fs = require("fs");
 const express = require("express");
 const { resolve } = require("path");
 // const __dirname = import.meta.dirname;
